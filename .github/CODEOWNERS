@@ -1,3 +1,4 @@
 # GitHub Actions
-.github/workflows/* @octocat
-.github/actions/* @octocat
+* @liubchigo
+.github/workflows/* @liubchigo
+.github/actions/* @liubchigo
